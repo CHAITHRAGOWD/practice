@@ -1,0 +1,68 @@
+           body{
+               background-color: #b68ea5;
+           }
+           main{
+               background-color: aqua;
+           }
+
+            .navbar-nav{
+                flex-direction: row;       
+            }
+            .nav-item{
+                
+                padding-left: 12px !important
+            }
+            .navbar{
+                background-color:lightsalmon;
+            }
+            .herosection{
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+            .top-medium-spacing{
+                background-color: rgba(87, 216, 27, 0.493);
+                padding-top: 10px;
+            }
+            .bottom-medium-spacing{
+                padding-bottom:10px;
+            }
+            .icon-spacing{
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+            .heading-space{
+                padding-top: 23px;
+            }
+            .content-space{
+                padding-top:50px;
+            }
+            .content-spacing-bottom{
+                padding-bottom: 60px;
+                
+            }
+            .Aboutus-section-bg{
+                background-color: rgb(120, 160, 160);
+            }
+            .team-section-bg{
+                background-color: #b68ea5;
+            }
+            .footer-section-bg{
+                background-color: #b6aeae;
+            }
+            .copyrights-section{
+                padding-top: 20px;
+                padding-bottom: 15px;
+                background-color: black;
+                color: rgb(209, 87, 87);
+            }
+            .custom-font-color{
+                color:#595D62;
+                text-decoration: none;
+            }
+            .custom-font-color:hover{
+                color:#595D62;
+                text-decoration: none;
+            }
+            .contact-us-spacing{
+                padding-top: 15px;
+            }

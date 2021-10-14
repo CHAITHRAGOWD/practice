@@ -1,0 +1,64 @@
+
+.navbar-nav{
+    flex-direction: row;
+     
+    text-decoration-color:#3a16c7;
+}
+.nav-item{
+    padding-left: 10px !important
+}
+
+
+.herosection{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.top-medium-spacing{
+    padding-top: 10px;
+    
+}
+
+.bottom-medium-spacing{
+    padding-bottom:10px;
+}
+.icon-spacing{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.heading-space{
+    padding-top: 15px;
+}
+.content-space{
+    padding-top:50px;
+}
+.content-spacing-bottom{
+    padding-bottom: 60px;
+}
+.team-section-bg{
+    background-color: #855757;
+}
+.card-section-bg{
+    background-image: -webkit-radial-gradient();
+}
+
+.copyrights-section{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color:rgb(28, 28, 238);
+    color: rgb(11, 16, 17);
+}
+.custom-font-color{
+    color:#595D62;
+    text-decoration: none;
+}
+.custom-font-color:hover{
+    color:#595D62;
+    text-decoration: none;
+}
+.contact-us-spacing{
+    padding-top: 15px;
+}
+.body{
+    background:url(trail1.jpg);
+    background-size: cover;
+}
